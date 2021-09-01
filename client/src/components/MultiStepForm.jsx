@@ -6,7 +6,6 @@ import Address from "./Address";
 import Contact from "./Contact";
 import Review from "./Review";
 import Submit from "./Submit";
-import LoginForm from "./login";
 
 const steps = [
   { id: "names" },
